@@ -1,0 +1,42 @@
+eventId: 3e2f9f77-bf8e-4d42-bcc4-245b81a31f35
+title: London Sitecore User Group - March 2026
+excerpt: >
+   Are you interested in speaking at our first event of 2026? We're working on a plan for the 19th of March...
+
+intro: >
+  <p><strong>The planning for our first user group of 2026 is underway, for an event near Paddington on the 19th of March.</strong></p>
+  <p>So while we're working on getting the details of the event sorted, we're looking for some speakers. Could one of them be you?</p>
+  <p>There will be two or three 20-30 minute talks during the evening. They can be on any topic that's related to Sitecore and its products. You could talk about things like:</p>
+  <ul>
+  <li>your experiences being a user</li>
+  <li>building with their technology</li>
+  <li>successes you've had on a project</li>
+  <li>running your business strategy or personalisation</li>
+  </ul> 
+  <p>or anything else you can think of with a Sitecore slant.</p>
+date: !!timestamp 2026-03-19 17:30:00+00:00
+duration: 150
+dateConfirmed: false
+showOnlineRsvp: false
+showEventImage: true
+talksTbc: true
+sponsors:
+venue:
+  name: TBD
+  address: Paddington, London
+location: London
+agenda:
+  - type: item
+    time: '17:30'
+    description: Arrival and networking
+  - type: tbd
+    time: '18:00'
+  - type: tbd
+    time: '18:30'
+  - type: tbd
+    time: '19:00'
+  - type: item
+    time: '20:00'
+    description: Close
+meta:
+  description: Our first Sitecore User Group of 2026 is being planned now for London on the 19th March. Could you be a speaker?
