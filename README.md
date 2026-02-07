@@ -24,3 +24,5 @@ yarn dev
 ```
 
 Open [http://localhost:8000](http://localhost:8000) with your browser to see the Site.
+
+**_Note:_** Before you commit a new or updated event, run `yarn events` to generate the socials image.
