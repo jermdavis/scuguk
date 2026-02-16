@@ -1,40 +1,53 @@
 eventId: 3e2f9f77-bf8e-4d42-bcc4-245b81a31f35
 title: London Sitecore User Group - March 2026
-excerpt: >
-   Are you interested in speaking at our first event of 2026? We're working on a plan for the 19th of March...
-
+excerpt: The first London user group of 2026 will be on March 19th at the Paddington Novotel. We have three talks, on Product Content Management, Content Operations and MACH with Sitecore.
 intro: >
-  <p><strong>The planning for our first user group of 2026 is underway, for an event near Paddington on the 19th of March.</strong></p>
-  <p>So while we're working on getting the details of the event sorted, we're looking for some speakers. Could one of them be you?</p>
-  <p>There will be two or three 20-30 minute talks during the evening. They can be on any topic that's related to Sitecore and its products. You could talk about things like:</p>
-  <ul>
-  <li>your experiences being a user</li>
-  <li>building with their technology</li>
-  <li>successes you've had on a project</li>
-  <li>running your business strategy or personalisation</li>
-  </ul> 
-  <p>or anything else you can think of with a Sitecore slant.</p>
+  <p><strong>Join us at the Novotel in Paddington on the 19th of March for the first user group of 2026.</strong></p>
+  <p>We'll be following on from an official Sitecore customer event that's happening in the daytime. There'll be the usual food and drink, plus three talks on modern Sitecore products. Covering Product Content Management, Content Operations and MACH integrations across the Siteore stack.</p>
+
+  <p>So come join us to socialise, hear the talks and chat with community people and Sitecore staff. It's a great way to make new contacts and learn useful stuff.</p>
+
+  <p><b>If you're signing up (form at bottom of page!) and need meat-free or gluten-free food options please drop an email to <i>jeremy dot davis at unrvld dot com</i> so we know what we need to provide</b></p>
+
+  <p><i>We'll communicate the room in the venue nearer the event, once the final organising is done.</i></p>
 date: !!timestamp 2026-03-19 17:30:00+00:00
 duration: 150
-dateConfirmed: false
-showOnlineRsvp: false
+dateConfirmed: true
+showOnlineRsvp: true
 showEventImage: true
-talksTbc: true
+talksTbc: false
 sponsors:
 venue:
-  name: TBD
-  address: Paddington, London
+  name: Novotel Paddington
+  address: 3 Kingdom St, Sheldon Square, London W2 6BD
 location: London
 agenda:
   - type: item
     time: '17:30'
     description: Arrival and networking
-  - type: tbd
+  - type: talk
     time: '18:00'
-  - type: tbd
+    speaker: jeremydavis
+    title: A use case for Content Hub products
+    description: Jeremy's been looking at a commerce project which has a use case for Product Content Management in Content Hub. Come see this talk to find out why it's useful, how it fits into the architecture with OrderCloud and Search, and what Content Hub offers to help you in these scenarios.
+  - type: item
     time: '18:30'
-  - type: tbd
-    time: '19:00'
+    description: Break
+  - type: talk
+    time: '18:45'
+    speaker: peterclisby
+    title: Content Operations with Sitecore
+    description: "This session will cover Content Operations features in Content Hub and explore how SitecoreAI interfaces with them. 
+                 Peter will cover topics like workflows, user groups, CMP, MRM, triggers, actions and scripts in the current product, and
+                 some thoughts on the future roadmap that Sitecore have planned."
+  - type: item
+    time: '19:15'
+    description: Break
+  - type: talk
+    time: '19:30'
+    speaker: timothymarsh
+    title: "MACH Is Complicated. Now SitecoreAI Makes It Work: Welcome to the Era of Content Operation Systems"
+    description: Composable architectures promised flexibility, but many organisations now find themselves managing a sprawling MACH landscape with disconnected tools, fragile integrations and manual processes spread across systems. This session digs into why traditional composable stacks often fail at scale and why simply connecting APIs isn’t enough. The session will look at how enterprise needs have shifted beyond isolated categories like CMS, DAM or personalisation into holistic content operations, where workflows span every system and every team. Modern platforms like SitecoreAI are now blurring these lines, signaling that traditional analyst categories like Gartner’s Magic Quadrants may no longer fully represent how teams actually work.
   - type: item
     time: '20:00'
     description: Close
