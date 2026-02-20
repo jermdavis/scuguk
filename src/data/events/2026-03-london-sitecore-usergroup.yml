@@ -17,6 +17,8 @@ showOnlineRsvp: true
 showEventImage: true
 talksTbc: false
 sponsors:
+  - unrvld
+  - sitecore
 venue:
   name: Novotel Paddington
   address: 3 Kingdom St, Sheldon Square, London W2 6BD
