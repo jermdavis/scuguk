@@ -3,7 +3,7 @@ title: London Sitecore User Group - March 2026
 excerpt: >
   [Note change of venue!] The first London user group of 2026 will be on March 19th at Sitecore's Paddington office. We have three talks, on Product Content Management, Content Operations and MACH with Sitecore.
 intro: >
-  <p><b><u>Please note change of venue!</u></b> We're now using Sitecore's Paddington office - just a short walk from the previously proposed location.</p>
+  <p class="alert alert-warning"><b><u>Please note change of venue!</u></b> We're now using Sitecore's Paddington office - just a short walk from the previously proposed location.</p>
 
   <p><strong>Join us at the Sitecore's office on the 19th of March for the first user group of 2026.</strong></p>
   <p>We'll be following on from an official Sitecore customer event that's happening in the daytime. There'll be the usual food and drink, plus three talks on modern Sitecore products. Covering Product Content Management, Content Operations and MACH integrations across the Siteore stack.</p>
