@@ -1,15 +1,16 @@
 eventId: 3e2f9f77-bf8e-4d42-bcc4-245b81a31f35
 title: London Sitecore User Group - March 2026
-excerpt: The first London user group of 2026 will be on March 19th at the Paddington Novotel. We have three talks, on Product Content Management, Content Operations and MACH with Sitecore.
+excerpt: >
+  [Note change of venue!] The first London user group of 2026 will be on March 19th at Sitecore's Paddington office. We have three talks, on Product Content Management, Content Operations and MACH with Sitecore.
 intro: >
-  <p><strong>Join us at the Novotel in Paddington on the 19th of March for the first user group of 2026.</strong></p>
+  <p><b><u>Please note change of venue!</u></b> We're now using Sitecore's Paddington office - just a short walk from the previously proposed location.</p>
+
+  <p><strong>Join us at the Sitecore's office on the 19th of March for the first user group of 2026.</strong></p>
   <p>We'll be following on from an official Sitecore customer event that's happening in the daytime. There'll be the usual food and drink, plus three talks on modern Sitecore products. Covering Product Content Management, Content Operations and MACH integrations across the Siteore stack.</p>
 
   <p>So come join us to socialise, hear the talks and chat with community people and Sitecore staff. It's a great way to make new contacts and learn useful stuff.</p>
 
-  <p><b>If you're signing up (form at bottom of page!) and need meat-free or gluten-free food options please drop an email to <i>jeremy dot davis at unrvld dot com</i> so we know what we need to provide</b></p>
-
-  <p><i>We'll communicate the room in the venue nearer the event, once the final organising is done.</i></p>
+  <p><b>If you're signing up (form at bottom of page - you need to do this to get in!) and need meat-free or gluten-free food options please drop an email to <i>jeremy dot davis at unrvld dot com</i> so we know what we need to provide</b></p>
 date: !!timestamp 2026-03-19 17:30:00+00:00
 duration: 150
 dateConfirmed: true
@@ -20,8 +21,8 @@ sponsors:
   - unrvld
   - sitecore
 venue:
-  name: Novotel Paddington
-  address: 3 Kingdom St, Sheldon Square, London W2 6BD
+  name: Sitecore
+  address: 10 Eastbourne Terrace, London W2 6LG
 location: London
 agenda:
   - type: item
