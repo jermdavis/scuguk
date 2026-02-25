@@ -27,4 +27,4 @@ Open [http://localhost:8000](http://localhost:8000) with your browser to see the
 
 **_Notes:_**
 * Before you commit a new or updated event, run `yarn build` to generate all the files and then `yarn events` to generate the socials image. If you're updating an event with new speakers, you will need to delete the old generated event image _before_ rebuilding.
-* You can use `<p class="alert alert-warning"></p>` in the `intro` field for a callout block, such as highlighting a change of venue.
+* You can use `<p className="alert alert-warning"></p>` in the `intro` field for a callout block, such as highlighting a change of venue.
